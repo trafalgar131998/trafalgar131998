@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trafalgar131998
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning and grasping more on HTML,CSS and JavaScript
+- 👀 I’m interested now more on Backend Development
+- 🌱 I’m currently learning C and Python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
